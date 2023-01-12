@@ -1,0 +1,29 @@
+.bar {
+	border-radius: 5px 5px 0 0;
+	width: 25px;
+	margin: 10px;
+	margin-right: 10px;
+}
+
+.text {
+	position: relative;
+	border: none;
+	background: transparent;
+	text-align: center;
+	transform: rotate(-90deg);
+	outline: none;
+	
+}
+.quantity-btn{
+	cursor: pointer;
+	text-align: center;
+	background: darkcyan;
+	margin: 1px;
+	padding: 0.6px;
+	position: relative;
+	
+}
+ .quantity-btn ::hover{
+	opacity: 1;
+ }
+
